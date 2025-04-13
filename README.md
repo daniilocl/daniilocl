@@ -60,7 +60,8 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniilocl&layout=compact&theme=dark&bg_color=00000000&title_color=ff0000&text_color=ffffff"/>
     <br>
-    <img src="https://github.com/daniilocl/daniilocl/blob/output/github-contribution-grid-snake.svg"/>
+    
+![Snake animation](https://github.com/daniilocl/daniilocl/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-![Snake animation](https://github.com/daniilocl/daniilocl/blob/output/github-contribution-grid-snake.svg)
+
