@@ -68,3 +68,11 @@
 </div>
 
 
+<div align="center">
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!;Volte+sempre!;Tenha+um+bom+dia!" />
+  </a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer" width="100%"/>
