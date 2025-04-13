@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=ff0000&center=true&vCenter=true&width=435&lines=Olá!+Meu+nome+é+Danilo.;Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=ff0000&center=true&vCenter=true&width=435&lines=Hello!+My+name+is+Danilo.✌;Welcome+to+my+profile😁!" alt="Typing SVG" />
     </a>
 </div>
 
@@ -15,11 +15,11 @@
 <br>
 
 <details>
-<summary align="center"><h2> 👨‍💻 Um pouco sobre mim </h2></summary>
+<summary align="center"><h2> 👨‍💻 A little about me </h2></summary>
 <div align="center">
-    <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas na UMC</p>
+    <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas na <a href="https://www.umc.br/" target="blank_">Universidade de Mogi das Cruzes</a></p>
     <p>💡 Apaixonado por tecnologia, inovação e desenvolvimento backend</p>
-    <p>📚 Atualmente estudando Java, Python, Git/GitHub, Spring, HTML e CSS</p>
+    <p>📚 Atualmente estudando Java, Python, Inglês, Git/GitHub, Spring, HTML e CSS</p>
     <p>🚀 Estou sempre buscando novos aprendizados e participações em projetos</p>
 </div>
 </details>
@@ -27,7 +27,7 @@
 ##
 
 <details>
-<summary align="center"><h2>🛠️ Linguagens e Ferramentas</h2></summary>
+<summary align="center"><h2>🛠️ Languages and tools</h2></summary>
 <div align="center">
     <a href="https://www.python.org/" target="_blank"><img alt="Python" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
     <a href="https://git-scm.com/" target="_blank"><img alt="Git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
@@ -40,7 +40,7 @@
 ##
 
 <details>
-<summary align="center"><h2>🤝 Contato</h2></summary>
+<summary align="center"><h2>🤝 Contact</h2></summary>
 <div align="center">
     <a href="https://www.instagram.com/daniilocl/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -50,6 +50,9 @@
     </a>
     <a href="mailto:danilocarvalho.matos67@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://drive.google.com/file/d/1m8RVumxtUIrSFUZ7YF0KfwEGHgyV8qBQ/view?usp=sharing" target="_blank">
+        <img src="https://img.shields.io/badge/-Curr%C3%ADculo-%23FF5733?style=for-the-badge&logo=google-drive&logoColor=white"/>
     </a>
     
 </div>
