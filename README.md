@@ -1,10 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header" width="100%"/>
 
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=ff0000&center=true&vCenter=true&width=435&lines=Hello!+My+name+is+Danilo.✌;Welcome+to+my+profile😁!" alt="Typing SVG" />
-    </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hello!+My+name+is+Danilo.✌;Welcome+to+my+profile!😁" alt="Typing SVG" />
+</p>
 
 <div align='center'>
     <a href="https://github.com/daniilocl">
