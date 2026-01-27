@@ -49,7 +49,7 @@
     <a href="mailto:danilocarvalho.matos67@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://drive.google.com/file/d/1m8RVumxtUIrSFUZ7YF0KfwEGHgyV8qBQ/view?usp=sharing" target="_blank">
+    <a href="https://docs.google.com/document/d/1HlmDDSvw0Fh39oNgQkBKwAx8IBaJF-L_dmfkeVkEkTs/edit?usp=drivesdk" target="_blank">
         <img src="https://img.shields.io/badge/-Curr%C3%ADculo-%23FF5733?style=for-the-badge&logo=google-drive&logoColor=white"/>
     </a>
     
