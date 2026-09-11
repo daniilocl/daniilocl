@@ -66,11 +66,10 @@
 ##
 
 <div align="center">
-    <!-- Removi o card de top languages que estava quebrando -->
-    <br><br>
-    
-    <!-- RESTAURADO: Caminho relativo que funcionava antes para a Snake -->
-    <img src="/daniilocl/daniilocl/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+  ![Snake animation](https://github.com/daniilocl/daniilocl/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 </div>
 
 <div align="center">
